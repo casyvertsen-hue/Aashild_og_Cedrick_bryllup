@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
   <title>Bryllup</title>
   <style>
     body {font-family: Arial, sans-serif; margin:0; background:#f9f6f2; color:#333; text-align:center;}
@@ -81,7 +84,7 @@
       iframe {height:300px;}
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 700px) {
       body {font-size: 32px; /* ← gjør all tekst større */}
       h1 {font-size: 38px;}
       h2 {font-size: 28px;}

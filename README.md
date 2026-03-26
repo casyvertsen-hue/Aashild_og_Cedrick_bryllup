@@ -52,6 +52,11 @@
 
     img {max-width:100%; border-radius:10px; margin-top:10px;}
     iframe {width:100%; height:250px; border:0; border-radius:10px; margin-top:10px;}
+
+    /* STØRRE RSVP-SKJEMA */
+.rsvp {
+  height:900px; /* ← JUSTER HER */
+    
     #countdown {font-size:20px; margin-top:10px;}
 
     .btn {
@@ -131,7 +136,7 @@
 
   <div class="box">
     <h2>RSVP 📝</h2>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2oyFLzM-TEauIwwDhfBARAkKgjZftjDCIMes1-Wi5p2QIhQ/viewform?usp=publish-editor"style="height:800px;"></iframe>
+    <iframe class="rsvp" src="https://docs.google.com/forms/d/e/1FAIpQLSd2oyFLzM-TEauIwwDhfBARAkKgjZftjDCIMes1-Wi5p2QIhQ/viewform?usp=publish-editor"></iframe>
   </div>
 
   <div class="box">

@@ -57,7 +57,7 @@
     iframe {width:100%; height:250px; border:0; border-radius:10px; margin-top:10px;}
 
     /* STØRRE RSVP-SKJEMA */
-.rsvp {
+  .rsvp {
   height:1200px; /* ← JUSTER HER */
   overflow:hidden;
     }

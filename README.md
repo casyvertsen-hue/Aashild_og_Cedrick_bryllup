@@ -82,11 +82,11 @@
     }
 
     @media (max-width: 600px) {
-      body {font-size: 22px; /* ← gjør all tekst større */}
-      h1 {font-size: 32px;}
-      h2 {font-size: 24px;}
-      p {font-size: 18px;}
-      .btn {font-size: 16px; padding: 12px 18px;}
+      body {font-size: 24px; /* ← gjør all tekst større */}
+      h1 {font-size: 38px;}
+      h2 {font-size: 28px;}
+      p {font-size: 26px;}
+      .btn {font-size: 26px; padding: 22px 28px;}
     }
   
   </style>

@@ -132,15 +132,21 @@
 
 <section>
 
-  <div class="box">
-    <h2>Se så fine vi er 💛</h2>
-    <img src="Vin.JPG" alt="Bryllupsbilde">
+    <div class="box">
+    <h2>Program</h2>
+    <p>
+      13:00 Vielse i Vestbygda kapell<br>
+      15:00 Fest på Spind grendehus<br>
+      19:00 Festen begynner for de store<br>
+      05:00 Kvelden
+    </p>
   </div>
 
   <div class="box">
-    <h2>Praktisk informasjon</h2>
-    <p><strong>Vielse:</strong> Vestbygda kapell kl. 13:00</p>
-    <p><strong>Fest:</strong> Spind grendehus AL kl. 15:00</p>
+    <h2>Ønskeliste</h2>
+    <br>Vi øsnker oss ikke gaver, men heller tjenester og hjelp til dagen <br>
+    <p><strong>Mat:</strong> Vi ønsker å ha tapas på selve dagen og trenger hjelp til å lage tapasretter</p>
+    <p><strong>Opp- og nedrigging:</strong> Vi trenger hjelp til å pynte, dekke på og rydde av.</p>
     <p><strong>Kleskode:</strong> Dress og kjole – men ikke for stivt. Ta med dansesko!</p>
   </div>
 
@@ -156,22 +162,12 @@
     <a class="btn" href="https://www.google.com/maps/dir/?api=1&destination=Spind+grendehus+AL" target="_blank">Få veibeskrivelse</a>
   </div>
 
-  <div class="box">
-    <h2>Program</h2>
-    <p>
-      13:00 Vielse i Vestbygda kapell<br>
-      15:00 Fest på Spind grendehus<br>
-      19:00 Festen begynner for de store<br>
-      05:00 Kvelden
-    </p>
-  </div>
 
   <div class="box">
     <h2>Overnatting</h2>
     <p>
       🏡 <a href="https://www.stayover.no/" target="_blank">Stayover @ Lista</a>  
-      <br>22 sengeplasser holdt av – ta kontakt for romvalg 💛  
-      <br><br>
+      <br> 👆 22 sengeplasser holdt av <br> ta kontakt for romvalg 💛 <br> 
       🏨 <a href="https://www.rederiethotell.no/rom" target="_blank">Rederiet Hotell</a><br>
       🌊 <a href="https://farsundfjordhotell.no/" target="_blank">Fjordhotellet</a><br>
       ⛺ <a href="https://lomsesanden.no/" target="_blank">Lomsesanden Camping</a><br>
@@ -179,17 +175,25 @@
   </div>
 
   <div class="box">
-    <h2>RSVP 📝</h2>
+    <h2>Kommer dere? 📝</h2>
     <iframe class="rsvp" src="https://docs.google.com/forms/d/e/1FAIpQLSd2oyFLzM-TEauIwwDhfBARAkKgjZftjDCIMes1-Wi5p2QIhQ/viewform?usp=publish-editor"></iframe>
   </div>
 
   <div class="box">
     <h2>Kontakt</h2>
     <p>
+      Oss: <br>
+      Åshild - 47329070 <br>
+      Cedrick - 41558641 <br>
       Toastmastere:<br>
-      Thea Seglem Tangen — +47 xxxxxxxx<br>
-      Tore Solberg Engebretsen — +47 xxxxxxxx
+      Thea Seglem Tangen — 46621279<br>
+      Tore Solberg Engebretsen — 90242176
     </p>
+  </div>
+
+    <div class="box">
+    <h2>Se så fine vi er 💛</h2>
+    <img src="Vin.JPG" alt="Bryllupsbilde">
   </div>
 
 </section>

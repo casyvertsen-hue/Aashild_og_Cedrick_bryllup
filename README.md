@@ -165,7 +165,7 @@
     <h2>Overnatting</h2>
     <p>
       🏡 <a href="https://www.stayover.no/" target="_blank">Stayover @ Lista</a>  
-      <br> 👆 22 sengeplasser holdt av <br> ta kontakt for romvalg 💛 <br> 
+      <br> 👆 22 sengeplasser holdt av 👆 <br> ta kontakt for romvalg 💛 <br> 
       🏨 <a href="https://www.rederiethotell.no/rom" target="_blank">Rederiet Hotell</a><br>
       🌊 <a href="https://farsundfjordhotell.no/" target="_blank">Fjordhotellet</a><br>
       ⛺ <a href="https://lomsesanden.no/" target="_blank">Lomsesanden Camping</a><br>
@@ -184,8 +184,8 @@
       Åshild - 47329070 <br>
       Cedrick - 41558641 <br><br>
       <strong>Toastmastere:</strong><br>
-      Thea Seglem Tangen — 46621279<br>
-      Tore Solberg Engebretsen — 90242176
+      Thea Seglem Tangen - 46621279<br>
+      Tore Solberg Engebretsen - 90242176
     </p>
   </div>
 

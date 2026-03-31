@@ -135,19 +135,10 @@
     <div class="box">
     <h2>Program</h2>
     <p>
-      13:00 Vielse i Vestbygda kapell<br>
-      15:00 Fest på Spind grendehus<br>
-      19:00 Festen begynner for de store<br>
-      05:00 Kvelden
+      <p><strong>13:00</strong> Vielse i Vestbygda kapell </p>
+      <p><strong>15:00</strong> Festen begynner på Spind Grendehus </p>
+      <p><strong>19:00</strong> Festen fortsetter for de store </p>
     </p>
-  </div>
-
-  <div class="box">
-    <h2>Ønskeliste</h2>
-    <br>Vi øsnker oss ikke gaver, men heller tjenester og hjelp til dagen <br>
-    <p><strong>Mat:</strong> Vi ønsker å ha tapas på selve dagen og trenger hjelp til å lage tapasretter</p>
-    <p><strong>Opp- og nedrigging:</strong> Vi trenger hjelp til å pynte, dekke på og rydde av.</p>
-    <p><strong>Kleskode:</strong> Dress og kjole – men ikke for stivt. Ta med dansesko!</p>
   </div>
 
   <div class="box">
@@ -162,6 +153,13 @@
     <a class="btn" href="https://www.google.com/maps/dir/?api=1&destination=Spind+grendehus+AL" target="_blank">Få veibeskrivelse</a>
   </div>
 
+  <div class="box">
+    <h2>Praktisk info</h2>
+    <p><strong>Kleskode:</strong> Dress og kjole – men ikke for stivt. Ta med dansesko!</p>
+    Vi ønsker oss ikke gaver, men heller tjenester og hjelp til dagen <br>
+    <p><strong>Mat:</strong> Vi ønsker å ha tapas på selve dagen og trenger hjelp til å lage tapasretter</p>
+    <p><strong>Opp- og nedrigging:</strong> Vi trenger hjelp til å pynte, dekke på og rydde av.</p>
+  </div>
 
   <div class="box">
     <h2>Overnatting</h2>

@@ -135,9 +135,9 @@
     <div class="box">
     <h2>Program</h2>
     <p>
-      <p><strong>13:00</strong> Vielse i Vestbygda kapell </p>
-      <p><strong>15:00</strong> Festen begynner på Spind Grendehus </p>
-      <p><strong>19:00</strong> Festen fortsetter for de store </p>
+      <strong>13:00</strong> Vielse i Vestbygda kapell <br>
+      <strong>15:00</strong> Festen begynner på Spind Grendehus <br>
+      <strong>19:00</strong> Festen fortsetter for de store
     </p>
   </div>
 
